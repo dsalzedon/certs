@@ -1,14 +1,13 @@
 # Coursera Certifications   
 
-## Google   
-[x] Crash Course on Python   
-[x] How Google Does Machine Learning     
-
+## Google     
+[How Google Does Machine Learning](https://www.coursera.org/account/accomplishments/verify/6XZQXCM3Z3AB)   
+[Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DDGS8PJULDQ9)   
 ## University of Michigan   
-[x] Certification Python3 Programming   
-[x] Data Collection and Processing with Python   
-[x] Python Basics   
-[x] Python Classes and Inheritance   
-[x] Python Functions, Files, and Dictionaries   
-[x] Python Project: Pillow, Tesseract, and OpenCV   
-[X] Understanding and Visualizing Data with Python   
+[Certification Python3 Programming](https://www.coursera.org/account/accomplishments/specialization/R3RTT5A4U4XD)   
+[Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/verify/3QSD4HQ8JTTP)      
+[Python Basics](https://www.coursera.org/account/accomplishments/verify/VDYWSM2NJ2K2)   
+[Python Classes and Inheritance](https://www.coursera.org/account/accomplishments/verify/728B8BULNTUV)   
+[Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/verify/BQ585NTKGMSH)   
+[Python Project: Pillow, Tesseract, and OpenCV](https://www.coursera.org/account/accomplishments/verify/AZMGZBQNECH3)   
+[Understanding and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/6NPVUFAEKKYJ)   
