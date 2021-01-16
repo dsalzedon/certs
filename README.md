@@ -15,6 +15,7 @@ This specialization teaches the fundamentals of programming in Python 3, by the 
 [Python Project: Pillow, Tesseract, and OpenCV](https://www.coursera.org/account/accomplishments/verify/AZMGZBQNECH3)   
 ### Statistics with Python
 [Statistics with Python Certification](https://www.coursera.org/account/accomplishments/specialization/MUSMJZCKAFNY)   
+This specialization is designed to teach learners beginning and intermediate concepts of statistical analysis, and use of the Python programming language to conduct data analyses.   
 #### Courses Completed
 [Understanding and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/6NPVUFAEKKYJ)   
 [Inferential Statistical Analysis with Python](https://www.coursera.org/account/accomplishments/verify/UTYFM2ZFQNXN)   
