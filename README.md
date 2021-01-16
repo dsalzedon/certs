@@ -5,7 +5,7 @@
 [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DDGS8PJULDQ9)   
 ## University of Michigan   
 ### Python3 Programming Certification   
-[Python3 Programming Certification](https://www.coursera.org/account/accomplishments/specialization/R3RTT5A4U4XD)   
+[Python3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/R3RTT5A4U4XD)   
 This specialization teaches the fundamentals of programming in Python 3, by the end of the specialization, you’ll be writing programs that query Internet APIs for data and extract useful information from them.   
 #### Courses Completed
 [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/verify/3QSD4HQ8JTTP)      
@@ -14,7 +14,7 @@ This specialization teaches the fundamentals of programming in Python 3, by the 
 [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/verify/BQ585NTKGMSH)   
 [Python Project: Pillow, Tesseract, and OpenCV](https://www.coursera.org/account/accomplishments/verify/AZMGZBQNECH3)   
 ### Statistics with Python
-[Statistics with Python Certification](https://www.coursera.org/account/accomplishments/specialization/MUSMJZCKAFNY)   
+[Statistics with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/MUSMJZCKAFNY)   
 This specialization is designed to teach learners beginning and intermediate concepts of statistical analysis, and use of the Python programming language to conduct data analyses.   
 #### Courses Completed
 [Understanding and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/6NPVUFAEKKYJ)   
