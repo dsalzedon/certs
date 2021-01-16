@@ -6,6 +6,7 @@
 ## University of Michigan   
 ### Python3 Programming Certification   
 [Python3 Programming Certification](https://www.coursera.org/account/accomplishments/specialization/R3RTT5A4U4XD)   
+This specialization teaches the fundamentals of programming in Python 3, by the end of the specialization, you’ll be writing programs that query Internet APIs for data and extract useful information from them.   
 #### Courses Completed
 [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/verify/3QSD4HQ8JTTP)      
 [Python Basics](https://www.coursera.org/account/accomplishments/verify/VDYWSM2NJ2K2)   
