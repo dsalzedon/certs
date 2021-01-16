@@ -4,7 +4,7 @@
 [How Google Does Machine Learning](https://www.coursera.org/account/accomplishments/verify/6XZQXCM3Z3AB)   
 [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DDGS8PJULDQ9)   
 ## University of Michigan   
-### Python3 Programming Certification   
+### Python3 Programming   
 [Python3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/R3RTT5A4U4XD)   
 This specialization teaches the fundamentals of programming in Python 3, by the end of the specialization, you’ll be writing programs that query Internet APIs for data and extract useful information from them.   
 #### Courses Completed
