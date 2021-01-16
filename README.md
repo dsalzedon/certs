@@ -12,5 +12,7 @@
 [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/verify/BQ585NTKGMSH)   
 [Python Project: Pillow, Tesseract, and OpenCV](https://www.coursera.org/account/accomplishments/verify/AZMGZBQNECH3)   
 ### Statistics with Python
+[Statistics with Python Certification](https://www.coursera.org/account/accomplishments/specialization/MUSMJZCKAFNY)   
 [Understanding and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/6NPVUFAEKKYJ)   
 [Inferential Statistical Analysis with Python](https://www.coursera.org/account/accomplishments/verify/UTYFM2ZFQNXN)
+[Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/verify/DY3XD2X2X3TQ)   
