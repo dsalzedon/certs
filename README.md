@@ -1,3 +1,10 @@
+# Microsoft Certifications
+
+## Azure Fundamentals AZ900 
+
+[AZ-900 Azure fundamentals] (https://viewscreen.githubusercontent.com/view/pdf?color_mode=dark&commit=3dc3484755e42eeb91d05e693d3d182f5e9494bd&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6473616c7a65646f6e2f43657274732f336463333438343735356534326565623931643035653639336433643138326635653934393462642f4d6963726f736f742532302d253230415a3930302e706466&nwo=dsalzedon%2FCerts&path=Microsot+-+AZ900.pdf&repository_id=325833101&repository_type=Repository#26b014da-ab3b-46ce-b849-94ac7eba10b4)  
+
+
 # Coursera Certifications   
 
 ## Google     
