@@ -1,7 +1,7 @@
 # Microsoft Certifications
 
 ## Azure Fundamentals AZ900   
-[AZ-900 Azure fundamentals] (blob:null/d7383feb-c9a5-3b4f-b7d1-8d769ee9a51a)
+[AZ-900 Azure fundamentals](https://www.certiport.com/portal/Pages/ViewTranscript.aspx?printview=true&defaultlang=ENU)
 
 # Coursera Certifications   
 
